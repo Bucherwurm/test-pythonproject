@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Bad Product",
+    "message": "Why is this product so bad? I donot like it. 0/5 rating. Never buying again.",
+    "timestamp": "2025-08-13 12:34",
+    "sentiment": "\ud83d\ude14 Negative",
+    "security": "\u2705 Looks Safe",
+    "score": -0.6999999999999998
+  },
+  {
+    "subject": "Free Lottery",
+    "message": "Hello sir, you are eligible for free lottery.\nYou win 60000$. Just click the link below.\n\nhttps://scam.me/free-money",
+    "timestamp": "2025-08-13 12:35",
+    "sentiment": "\ud83d\ude0a Positive",
+    "security": "\ud83d\udea8 Possible Phishing",
+    "score": 0.6000000000000001
+  },
+  {
+    "subject": "Friendly Reminder",
+    "message": "This is the friendly reminder that we have meeting at 2 pm.",
+    "timestamp": "2025-08-14 08:57",
+    "sentiment": "\ud83d\ude0a Positive",
+    "security": "\u2705 Looks Safe",
+    "score": 0.375
+  },
+  {
+    "subject": "Friendly Reminder",
+    "message": "The meeting is at 3 PM",
+    "timestamp": "2025-08-14 08:57",
+    "sentiment": "\ud83d\ude10 Neutral",
+    "security": "\u2705 Looks Safe",
+    "score": 0.0
+  },
+  {
+    "subject": "Thank you for ordering",
+    "message": "Thank you for ordering the product. Please click on the link for free money.\nhttps://mywebsite.com/free-money\n",
+    "timestamp": "2025-08-14 09:21",
+    "sentiment": "\ud83d\ude0a Positive",
+    "security": "\ud83d\udea8 Possible Phishing",
+    "score": 0.4
+  }
+]

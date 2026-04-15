@@ -1,0 +1,166 @@
+{
+  "assessments": [
+    {
+      "date": "2025-08-14T13:48:39.657206",
+      "total_score": 52.5,
+      "responses": {
+        "unique_passwords": "Yes",
+        "password_manager": "No",
+        "two_factor_auth": "Partially",
+        "software_updates": "Partially",
+        "antivirus": "Partially",
+        "secure_browsing": "Yes",
+        "wifi_security": "No",
+        "backup_strategy": "No"
+      },
+      "category_scores": {
+        "Password Security": {
+          "score": 20,
+          "max": 35
+        },
+        "Account Security": {
+          "score": 10.0,
+          "max": 20
+        },
+        "System Security": {
+          "score": 12.5,
+          "max": 25
+        },
+        "Browsing Security": {
+          "score": 10,
+          "max": 10
+        },
+        "Network Security": {
+          "score": 0,
+          "max": 5
+        },
+        "Data Protection": {
+          "score": 0,
+          "max": 5
+        }
+      }
+    },
+    {
+      "date": "2025-08-14T13:49:20.484912",
+      "total_score": 100.0,
+      "responses": {
+        "unique_passwords": "Yes",
+        "password_manager": "Yes",
+        "two_factor_auth": "Yes",
+        "software_updates": "Yes",
+        "antivirus": "Yes",
+        "secure_browsing": "Yes",
+        "wifi_security": "Yes",
+        "backup_strategy": "Yes"
+      },
+      "category_scores": {
+        "Password Security": {
+          "score": 35,
+          "max": 35
+        },
+        "Account Security": {
+          "score": 20,
+          "max": 20
+        },
+        "System Security": {
+          "score": 25,
+          "max": 25
+        },
+        "Browsing Security": {
+          "score": 10,
+          "max": 10
+        },
+        "Network Security": {
+          "score": 5,
+          "max": 5
+        },
+        "Data Protection": {
+          "score": 5,
+          "max": 5
+        }
+      }
+    },
+    {
+      "date": "2025-08-14T13:49:27.126972",
+      "total_score": 80.0,
+      "responses": {
+        "unique_passwords": "Yes",
+        "password_manager": "Yes",
+        "two_factor_auth": "Yes",
+        "software_updates": "Yes",
+        "antivirus": "No",
+        "secure_browsing": "No",
+        "wifi_security": "Yes",
+        "backup_strategy": "Yes"
+      },
+      "category_scores": {
+        "Password Security": {
+          "score": 35,
+          "max": 35
+        },
+        "Account Security": {
+          "score": 20,
+          "max": 20
+        },
+        "System Security": {
+          "score": 15,
+          "max": 25
+        },
+        "Browsing Security": {
+          "score": 0,
+          "max": 10
+        },
+        "Network Security": {
+          "score": 5,
+          "max": 5
+        },
+        "Data Protection": {
+          "score": 5,
+          "max": 5
+        }
+      }
+    }
+  ],
+  "goals": [],
+  "habits": [],
+  "last_assessment": {
+    "date": "2025-08-14T13:49:27.126972",
+    "total_score": 80.0,
+    "responses": {
+      "unique_passwords": "Yes",
+      "password_manager": "Yes",
+      "two_factor_auth": "Yes",
+      "software_updates": "Yes",
+      "antivirus": "No",
+      "secure_browsing": "No",
+      "wifi_security": "Yes",
+      "backup_strategy": "Yes"
+    },
+    "category_scores": {
+      "Password Security": {
+        "score": 35,
+        "max": 35
+      },
+      "Account Security": {
+        "score": 20,
+        "max": 20
+      },
+      "System Security": {
+        "score": 15,
+        "max": 25
+      },
+      "Browsing Security": {
+        "score": 0,
+        "max": 10
+      },
+      "Network Security": {
+        "score": 5,
+        "max": 5
+      },
+      "Data Protection": {
+        "score": 5,
+        "max": 5
+      }
+    }
+  }
+}

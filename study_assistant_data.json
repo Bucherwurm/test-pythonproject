@@ -1,0 +1,26 @@
+{
+  "subjects": [
+    "English"
+  ],
+  "study_sessions": [],
+  "notes": [
+    {
+      "id": 0,
+      "subject": "English",
+      "title": "a",
+      "content": "aaa",
+      "date": "2025-08-14T13:28:27.700322",
+      "analysis": {
+        "word_count": 1,
+        "sentence_count": 1,
+        "complexity_score": 1.0,
+        "sentiment": 0.0,
+        "top_concepts": [],
+        "readability": "High"
+      }
+    }
+  ],
+  "goals": [],
+  "flashcards": [],
+  "quiz_results": []
+}

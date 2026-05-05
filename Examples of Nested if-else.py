@@ -83,9 +83,9 @@ else:
     print("You are not eligible for a bonus.")
 
 #8
-radius=float(input("Enter the radius of the circle (in cm): "))
+radius=float(input("Enter the radius of the circle: "))
 area=3.14*radius**2
-print(f"The area of the circle is: {area} cm²")
+print(f"The area of the circle is: {area}")
 
 #9
 age=int(input("Enter your age: "))

@@ -9,7 +9,7 @@ if not (first_name and last_name and email and re_email and password):
 elif not (first_name.isalpha() and last_name.isalpha()):
     print("First name and last name must contain only letters.")
     is_valid = False
-elif '@' not in email or '.' not in email:
+elif not ('@' in email and '.' in email and '@' in re_email and '.' in re_email):
     print("Email must contain '@' and '.'.")
     is_valid = False
 elif re_email != email:
